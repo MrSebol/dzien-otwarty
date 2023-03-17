@@ -6,14 +6,21 @@ body {
     color: #ffffff;
 }
 #container {
-    background-color: rgb(197,0,0);
+    text-align: center;
+    background-color: #30295a;
 }
 h1 {
     text-align: center;
     font-family: "Amatic SC", sans-serif;
-    font-size: 4rem;
+    font-size: 3rem;
     margin-bottom: 0;
 }
 div#titleDetails {
-    margin-bottom: 2rem;
+    margin-bottom: 0;
+    font-size: 3rem;
 }
+ #plandnia {
+font-size: 2rem;
+background-color: #30295a;
+font-family: "Amatic SC", sans-serif ;
+ }
